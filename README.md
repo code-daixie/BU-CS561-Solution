@@ -1,2 +1,3 @@
 # BU-CS561-Solution
-the solution to CS561
+
+## 微信：scs_ryan
